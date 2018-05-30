@@ -1,0 +1,7 @@
+.panel-body {
+  display: none;
+}
+
+.panel:hover {
+  cursor: pointer;
+}
